@@ -24,28 +24,28 @@ Cloudformation deploys the following components:
 
 1. Fill in the parameters as shown below:
 
-    CIDRForInstanceAccess
-    EncryptVolumes
-    FortiOSVersion
-    InitS3Bucket
-    InstanceType
-    KeyPair
-    LicenseType
-    LocalUsername
-    LocalUserPassword
-    PrivateSubnet
-    PrivateSubnetRouterIP
-    PublicSubnet
-    PublicSubnetRouterIP
-    PublicSubnetRouteTableID
-    S3EndpointDeployment
-    ServerName
-    ServerPrivateIP
-    VPCCIDR
-    VPCID
-    ZTNAGatewayLicenseFile
-    ZTNAGatewayPrivateIP
-    ZTNAGatewayPublicIP
+-   CIDRForInstanceAccess
+-   EncryptVolumes
+-   FortiOSVersion
+-   InitS3Bucket
+-   InstanceType
+-   KeyPair
+-   LicenseType
+-   LocalUsername
+-   LocalUserPassword
+-   PrivateSubnet
+-   PrivateSubnetRouterIP
+-   PublicSubnet
+-   PublicSubnetRouterIP
+-   PublicSubnetRouteTableID
+-   S3EndpointDeployment
+-   ServerName
+-   ServerPrivateIP
+-   VPCCIDR
+-   VPCID
+-   ZTNAGatewayLicenseFile
+-   ZTNAGatewayPrivateIP
+-   ZTNAGatewayPublicIP
 
  ![AWS FortiGate Deploy](./parameters.png)
 
