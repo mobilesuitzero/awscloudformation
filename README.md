@@ -46,8 +46,13 @@ Cloudformation deploys the following components:
 -   ZTNAGatewayLicenseFile
 -   ZTNAGatewayPrivateIP
 -   ZTNAGatewayPublicIP
+-   EMSServerType
+-   EMSServerIP
+-   EMSServerPort
 
- ![AWS FortiGate Deploy](./parameters.png)
+ ![AWS FortiGate Deploy-1](./parameter-1.png)
+ ![AWS FortiGate Deploy-2](./parameter-2.png)
+ ![AWS FortiGate Deploy-2](./parameter-3.png)
 
  2. Continue to deploy the stack.
 
